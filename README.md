@@ -45,7 +45,10 @@
 11. Solution for Construct Binary Tree from Inorder and Postorder Traversal
 
 12. Solution for Find Bottom Left Tree Value
+![image](https://github.com/user-attachments/assets/f491d21f-a85b-4476-9d85-8939c31da9b8)
+
 
 13. Solution for Binary Tree Maximum Path Sum
 
 14. Solution for Vertical Order Traversal of a Binary Tree
+![image](https://github.com/user-attachments/assets/5eac2065-3304-480c-8db8-c637dee55c89)
