@@ -14,3 +14,38 @@
 513.[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/description/)<br>
 124.[ Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/)<br>
 987.[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/description/)<br>
+
+1.Solution forBinary tree inorder traversal
+:![image](https://github.com/user-attachments/assets/649d1f08-a350-4a0d-959e-4245bf5d973f)
+
+2. Solution for Symmetric tree:
+![image](https://github.com/user-attachments/assets/15ace61a-4150-40a5-8867-38464efd37a7)
+
+3. Solution for Maximum depth of Binary Tree:
+![image](https://github.com/user-attachments/assets/1be50f87-1f15-4d49-be6b-247b469cf961)
+
+4. Solution for Validate Binary Search Tree:
+![image](https://github.com/user-attachments/assets/e74c93ca-5ce6-45be-bd7a-ba8da46b585c)
+
+
+5.  Solution for Kth Smallest Element in a BST:
+![image](https://github.com/user-attachments/assets/12e8a044-4895-4acc-8d09-74ecfbebc478)
+
+6. Solution for Binary Tree Level Order Traversal:
+![image](https://github.com/user-attachments/assets/c72865f8-98df-44b9-bee5-f8f3a0a26726)
+
+7. Solution for Binary Tree Level Order Traversal II:
+![image](https://github.com/user-attachments/assets/0b9fe206-96f9-4df5-9f36-7023ffb25f59)
+
+9. Solution for Binary Tree Zigzag Level Order Traversal
+![image](https://github.com/user-attachments/assets/2046e897-3bb2-456a-9dbc-6d913658cd1a)
+
+10. Solution for Binary Tree Right Side View
+
+11. Solution for Construct Binary Tree from Inorder and Postorder Traversal
+
+12. Solution for Find Bottom Left Tree Value
+
+13. Solution for Binary Tree Maximum Path Sum
+
+14. Solution for Vertical Order Traversal of a Binary Tree
